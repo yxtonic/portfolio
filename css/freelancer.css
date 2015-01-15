@@ -328,7 +328,8 @@ section.success {
 }
 
 .floating-label-form-group-with-focus label {
-    color: #18bc9c;
+/*    color: #18bc9c;*/
+    color: #F15B41;
 
 }
 
