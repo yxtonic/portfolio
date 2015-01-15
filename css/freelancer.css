@@ -22,8 +22,8 @@ a:focus,
 a:active,
 a.active {
     outline: 0;
-/*  teal  color: #18bc9c;*/
-    color: #2D3338
+    color: #18bc9c;
+    
 }
 
 h1,
@@ -69,13 +69,13 @@ hr.star-light:after {
 }
 
 hr.star-primary {
-    border-color: #009EA8;
-/*    #2c3e50;*/
+    border-color: #2c3e50;
+
 }
 
 hr.star-primary:after {
-/*    color: #2c3e50;*/
-    color: #009EA8;
+
+    color: #2c3e50;
     background-color: #fff;
 }
 
@@ -86,8 +86,8 @@ hr.star-primary:after {
 header {
     text-align: center;
     color: #fff;
-/*    background: #18bc9c;*/
-    background: #2D3338;
+    background: #18bc9c;
+
 
 }
 
@@ -187,8 +187,8 @@ section h2 {
 
 section.success {
     color: #fff;
-/*    background: #18bc9c;*/
-  background: #2D3338;
+    background: #18bc9c;
+
 }
 
 @media(max-width:767px) {
@@ -272,8 +272,8 @@ section.success {
 .btn-outline:active,
 .btn-outline.active {
     border: solid 2px #fff;
-/*    color: #18bc9c;*/
-    color: #2D3338;
+    color: #18bc9c;
+
     background: #fff;
 }
 
@@ -326,8 +326,8 @@ section.success {
 }
 
 .floating-label-form-group-with-focus label {
-/*    color: #18bc9c;*/
-    color: #2D3338;
+    color: #18bc9c;
+
 }
 
 form .row:first-child .floating-label-form-group {
@@ -344,8 +344,7 @@ footer h3 {
 
 footer .footer-above {
     padding-top: 50px;
-/*    background-color: #2c3e50;*/
-background-color: #009EA8;
+    background-color: #2c3e50;
 }
 
 footer .footer-col {
@@ -438,8 +437,8 @@ footer .footer-below {
     width: 1px;
     height: 75px;
     margin-left: 35px;
-/*    background-color: #2c3e50;*/
-    background-color: #009EA8;
+    background-color: #2c3e50;
+
     -webkit-transform: rotate(45deg);
     -ms-transform: rotate(45deg);
     transform: rotate(45deg);
@@ -449,8 +448,7 @@ footer .footer-below {
     z-index: 1052;
     width: 1px;
     height: 75px;
-/*    background-color: #2c3e50;*/
-    background-color: #009EA8;
+    background-color: #2c3e50;
     -webkit-transform: rotate(90deg);
     -ms-transform: rotate(90deg);
     transform: rotate(90deg);
