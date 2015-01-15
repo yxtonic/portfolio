@@ -88,6 +88,7 @@ header {
     text-align: center;
     color: #fff;
     background: #18bc9c;
+    
 
 
 }
@@ -273,8 +274,8 @@ section.success {
 .btn-outline:active,
 .btn-outline.active {
     border: solid 2px #fff;
-    color: #18bc9c;
-
+/*    color: #18bc9c;*/
+    color: #F15B41;
     background: #fff;
 }
 
