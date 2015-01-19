@@ -61,7 +61,7 @@ h1 span,
 h2 span,
 h3 span,
 h4 span {
-	color: #339BEB;
+	color: #00A4A3;
 }
 .text-colored {
     color: #003455;
@@ -735,5 +735,5 @@ textarea {
 .service i {
     color: #00b3fe;
     font-size: 60px;
-    padding: 15px;
+    padding: 20 px;
 }
