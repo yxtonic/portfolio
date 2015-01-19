@@ -726,14 +726,14 @@ textarea {
 /* Services Wrap */
 .servicethings {
     margin-top: 35px;
-    margin-bottom: 80px;
+    margin-bottom: 100px;
   
    
     text-align: center;
 }
 
 .service i {
-    color: #00A4A3;
+    color: #08B1A3;
     font-size: 63px;
     padding: 22 px;
 }
