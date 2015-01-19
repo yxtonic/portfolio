@@ -61,7 +61,7 @@ h1 span,
 h2 span,
 h3 span,
 h4 span {
-	color: #00A4A3;
+	color: #10C0A6;
 }
 .text-colored {
     color: #003455;
@@ -393,8 +393,8 @@ blockquote {
 .nav-pills > li.active > a:hover,
 .nav-pills > li.active > a:focus,
 .nav-pills > li > a:hover {
-	background-color: #08B1A3;
-	border-color: #08B1A3;
+	background-color: #10C0A6;
+	border-color: #10C0A6;
 	color: #ffffff;
 }
 .nav-pills > li > a {
@@ -433,7 +433,7 @@ textarea {
 	border-radius: 0px;
 }
 .modal-header {
-	background-color: #003455;
+	background-color: #10C0A6;
 	color: #ffffff;
 }
 .modal-header h4 {
@@ -733,7 +733,7 @@ textarea {
 }
 
 .service i {
-    color: #08B1A3;
+    color: #10C0A6;
     font-size: 63px;
     padding: 22 px;
 }
