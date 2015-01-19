@@ -136,6 +136,11 @@ blockquote {
 	min-height: 100%;
 	width: 100%;
 }
+
+.me-image {
+    vertical-align: middle;
+
+}
 .banner:after {
 	position: absolute;
 	top: 0;
@@ -152,11 +157,7 @@ blockquote {
 	z-index: 2;
 }
 
-.banner-profile {
-    vertical-align: middle;
-    
 
-}
 .subfooter {
 	background-color: #fafafa;
 	border-top: 1px solid #f3f3f3;
