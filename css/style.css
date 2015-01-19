@@ -724,13 +724,17 @@ textarea {
 }
 
 /* Services Wrap */
-#service {
+.servicethings {
     margin-top: 100px;
     margin-bottom: 80px;
-}
-
-#service i {
     color: #00b3fe;
     font-size: 60px;
     padding: 15px;
+    text-align: center;
 }
+
+/*.service i {*/
+/*    color: #00b3fe;*/
+/*    font-size: 60px;*/
+/*    padding: 15px;*/
+/*}*/
