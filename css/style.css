@@ -727,14 +727,14 @@ textarea {
 .servicethings {
     margin-top: 100px;
     margin-bottom: 80px;
-    color: #00b3fe;
-    font-size: 60px;
-    padding: 15px;
+  
+    font-size: 10px;
+   
     text-align: center;
 }
 
-/*.service i {*/
-/*    color: #00b3fe;*/
-/*    font-size: 60px;*/
-/*    padding: 15px;*/
-/*}*/
+.service i {
+    color: #00b3fe;
+    font-size: 60px;
+    padding: 15px;
+}
