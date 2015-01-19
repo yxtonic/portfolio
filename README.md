@@ -1,26 +1,44 @@
-# [Start Bootstrap](http://startbootstrap.com/) - [Freelancer](http://startbootstrap.com/template-overviews/freelancer/)
+Worthy - Free Bootstrap Template
+=======================================================================
 
-[Freelancer](http://startbootstrap.com/template-overviews/freelancer/) is a one page freelancer portfolio theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/). This theme features several content sections, a responsive portfolio grid with hover effects, full page portfolio item modals, and a working PHP contact form.
+Worhty is a Multipurpose One Page Template based on Bootstrap 3 Framework. 
+You can use it for corporate, business and agency webpages as well as 
+portfolio and personal webpages.
 
-## Getting Started
+If you like the template and find it useful, please help us spread the word :-)
 
-To use this theme, choose one of the following options to get started:
-* Download the latest release on Start Bootstrap
-* Fork this repository on GitHub
+- Theme version: v1.0
+- Release Date: 13 Nov 2014
+- Author: HtmlCoder (http://htmlcoder.me)
+- Contact: http://htmlcoder.me/contact
 
-## Bugs and Issues
+Live Preview
+=======================================================================
+http://www.htmlcoder.me/preview/worthy/v.1.0
 
-Have a bug or an issue with this theme? [Open a new issue](https://github.com/IronSummitMedia/startbootstrap-freelancer/issues) here on GitHub or leave a comment on the [template overview page at Start Bootstrap](http://startbootstrap.com/template-overviews/freelancer/).
+License
+=======================================================================
+Worthy is released under the Creative Commons Attribution 3.0 License
+https://creativecommons.org/licenses/by/3.0/
 
-## Creator
+Credits
+=======================================================================
 
-Start Bootstrap was created by and is maintained by **David Miller**, Managing Parter at [Iron Summit Media Strategies](http://www.ironsummitmedia.com/).
+Demo images
+------------------------------------------------------
+- Unsplash by Crew - http://unsplash.com/
 
-* https://twitter.com/davidmillerskt
-* https://github.com/davidtmiller
+Fonts
+------------------------------------------------------
+- Font Awesome by Dave Gandy - http://fortawesome.github.io/Font-Awesome/
+- Google Fonts - http://www.google.com/fonts
 
-Start Bootstrap is based on the [Bootstrap](http://getbootstrap.com/) framework created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thorton](https://twitter.com/fat).
-
-## Copyright and License
-
-Copyright 2013-2015 Iron Summit Media Strategies, LLC. Code released under the [Apache 2.0](https://github.com/IronSummitMedia/startbootstrap-freelancer/blob/gh-pages/LICENSE) license.
+Resources
+------------------------------------------------------
+- Bootstrap Framework by @mdo and @fat - http://getbootstrap.com/
+- jQuery - https://jquery.org/
+- jQuery Appear - by bas2k - https://github.com/bas2k/jquery.appear/
+- Modernizr - http://modernizr.com/
+- Animate CSS by Daniel T. Eden - http://daneden.github.io/animate.css/
+- Isotope Jquery plugin by metafizzy.co - http://isotope.metafizzy.co/
+- Backstrech by Scott Robbin - http://srobbin.com/jquery-plugins/backstretch/
