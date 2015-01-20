@@ -322,8 +322,8 @@ blockquote {
 }
 .btn-default:hover {
 	color: #ffffff;
-	background-color: #21A3A3;
-	border-color: #21A3A3;
+	background-color: #000000;
+	border-color: #000000;
 }
 
 /* Collapse
@@ -658,7 +658,7 @@ textarea {
 	color: #999999;
 }
 .isotope-item .btn-default:hover {
-	color: #ffffff;
+	color: #10C0A6;
 }
 @media (max-width:480px) {
 	.filters .nav-pills > li {
