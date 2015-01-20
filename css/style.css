@@ -116,7 +116,11 @@ blockquote {
 ----------------------------------------------------------------------------- */
 .header {
 	color: #ffffff;
+<<<<<<< HEAD
 	background-color: rgba(0, 0, 0, .6);
+=======
+	background-color: rgba(0, 0, 0, .2);
+>>>>>>> 1c6a03c85c446e734d9dc41f94e4af3795a9ca36
 	padding: 10px 0;
 	-webkit-transition: all 0.2s ease-in-out;
 	-moz-transition: all 0.2s ease-in-out;
@@ -174,7 +178,17 @@ blockquote {
 }
 .default-bg.blue {
 	background-color: #55acee;
+<<<<<<< HEAD
 }
+=======
+}
+
+.default-bg.teal {
+	background-color: #10C0A6;
+
+}
+
+>>>>>>> 1c6a03c85c446e734d9dc41f94e4af3795a9ca36
 .translucent-bg {
 	color: #ffffff;
 }
@@ -431,7 +445,7 @@ textarea {
 	-webkit-border-radius: 0px;
 	-moz-border-radius: 0px;
 	border-radius: 0px;
- 
+
 }
 .modal-header {
 	background-color: #2CBAA3;
@@ -589,6 +603,7 @@ textarea {
 .social-links {
 	padding: 0;
 	list-style: none;
+<<<<<<< HEAD
 	margin: 15px 0;
 }
 .social-links li {
@@ -598,12 +613,33 @@ textarea {
 }
 .social-links li a {
 	color: #333333;
+=======
+	margin: 10px 0;
+	letter-spacing: 15px;
+	text-align: center;
+    padding: 10px;
+}
+.social-links li {
+	margin: 0px 25px 10px 0;
+
+	display: inline-block;
+	font-size: 68px;
+}
+.social-links li a {
+	color: #FFFFFF;
+>>>>>>> 1c6a03c85c446e734d9dc41f94e4af3795a9ca36
 	-webkit-transition: all 0.2s ease-in-out;
 	-moz-transition: all 0.2s ease-in-out;
 	-o-transition: all 0.2s ease-in-out;
 	-ms-transition: all 0.2s ease-in-out;
 	transition: all 0.2s ease-in-out;
+<<<<<<< HEAD
 }
+=======
+}
+
+
+>>>>>>> 1c6a03c85c446e734d9dc41f94e4af3795a9ca36
 .social-links li.twitter a:hover {
 	color: #55acee;
 }
@@ -627,6 +663,12 @@ textarea {
 }
 .social-links li.pinterest a:hover {
 	color: #cb2027;
+<<<<<<< HEAD
+=======
+}
+.social-links li.dark a:hover {
+	color: #181818;
+>>>>>>> 1c6a03c85c446e734d9dc41f94e4af3795a9ca36
 }
 
 /* Isotope Items
@@ -729,7 +771,7 @@ textarea {
     margin-top: 45px;
     margin-bottom: 100px;
 
-   
+
     text-align: center;
 }
 
